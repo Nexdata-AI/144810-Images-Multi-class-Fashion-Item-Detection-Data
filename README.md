@@ -29,4 +29,4 @@ rectangular bounding boxes of fashion items
 The accuracy of rectangular bounding boxes is not less than 95%;The accuracy of labels of bounding boxes is not less than 95%
 
 # Licensing Information
-Commerical License: https://drive.google.com/file/d/1saDCPm74D4UWfBL17VbkTsZLGfpOQj1J/view?usp=sharing
+Commercial License
